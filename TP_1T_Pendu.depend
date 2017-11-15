@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510780889 source:d:\alexis\ludus académie\projets en c\exercicestp1t\tp_1t_pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
